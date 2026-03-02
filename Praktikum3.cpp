@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-// deklarasi global
+// deklarasi untuk global
 int r;
 
 //fungsi dan prosedur
@@ -14,7 +14,7 @@ void input (){
 float luaslingkaran (int r){
     return 3.14159*r*r;
 }
-//void untuk operasi
+//void untuk operasi 
 void output(){
     cout << "Hasilnya : " <<luaslingkaran(r) << endl;
 }
