@@ -17,7 +17,7 @@ float luaslingkaran (int r){
 void output(){
     cout << "Hasilnya : " <<luaslingkaran(r) << endl;
 }
-
+//untuk menampilkan hasilnnya
 int main (){
     input ();
     output ();
