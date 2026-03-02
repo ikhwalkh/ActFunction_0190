@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-// deklarasi
+// deklarasi global
 int r;
 
 //fungsi dan prosedur
